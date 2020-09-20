@@ -264,11 +264,11 @@ body:before {
 	z-index: -1;
 	top: 0;
 	left: 0;
-	width: 50%;
+	width: 100%;
 	background-color: rgba(var(--vtransparencycolor), calc(0.1 + var(--vguildchanneltransparency) * 2));
 }
 .titleBar-AC4pGV:not(.typeMacOS-3EmCyP):after {
-	height: 10px;
+	height: 22px;
 }
 .titleBar-AC4pGV.typeMacOS-3EmCyP:after {
 	height: 28px;
