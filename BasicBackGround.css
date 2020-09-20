@@ -264,7 +264,7 @@ body:before {
 	z-index: -1;
 	top: 0;
 	left: 0;
-	width: 100%;
+	width: 50%;
 	background-color: rgba(var(--vtransparencycolor), calc(0.1 + var(--vguildchanneltransparency) * 2));
 }
 .titleBar-AC4pGV:not(.typeMacOS-3EmCyP):after {
